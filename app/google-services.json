@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "40021979048",
+    "project_id": "rku-fcm-83c40",
+    "storage_bucket": "rku-fcm-83c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40021979048:android:7f180b90a79c0769bd379d",
+        "android_client_info": {
+          "package_name": "com.rku.demonotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40021979048-8jt0cqa21s6pcsejt9pqnj69bkpa2p1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnisAeIGB7XyGBVO9RR8ayDiqbI_5wdp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40021979048-8jt0cqa21s6pcsejt9pqnj69bkpa2p1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
